@@ -1,0 +1,177 @@
+.main{
+    height: 15vw;
+    background-color: rgb(193, 185 ,155);
+    display:flex;
+    width:auto;
+   }
+   .navbar{
+    height:100%;
+    font-family: -webkit-pictograph;
+    width:100%;
+    display:inline-block;
+    
+   }
+   .one{
+     height:50%;
+     margin-left:35%;
+     display:inline-block;
+     width:auto;
+     line-height:0;
+   }
+   section.main p{
+       padding-left:20%;
+       font-size: 1.5vw;
+       color:rgb(45, 69, 97);
+   }
+   section.main h1{
+       color:rgb(45, 69, 97);
+       font-size: 4vw;
+   
+   }
+   .two{
+    height:50%;
+    width:auto;
+    font-size:2.1vw;
+    margin-left:15%;
+    margin-top:2%;
+   
+   }
+   .bar{
+       padding-left:5%;
+       padding-right:5%;
+       background-color:rgb(45, 69, 97);
+       color: white;
+       text-decoration: none;
+       
+   }
+.body2{
+    height:145vw;
+    display:flex;
+    position: relative;
+}
+.content{
+    height: 145vw;
+
+}
+.left{
+    height:145vw;
+    position: relative;
+    background-color: rgb(151 151 154);
+    width:20%;
+    font-family: cursive;
+}
+.right{
+    height:145vw;
+    position: relative;
+    width:80%;
+    font-weight: lighter;
+    color:white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color:rgb(45, 69, 97);
+}
+div.left img{
+    margin-top:10%;
+    width:60%;
+    border-radius: 6rem;
+    margin-left: 14%;
+}
+div.left p{
+    margin-left:6%;
+    font-size:1.4vw;
+    
+}
+.summary{
+    height:16vw;
+    display:inline-block;
+    width:100%;
+   
+}
+div.summary h2{
+    font-size:2vw;
+    margin-left:4%;
+    font-weight: lighter;
+}
+div.summary p{
+    font-size:1.5vw;
+    margin-left: 1%;
+    padding-left:3%;
+    margin-right:1%;
+    box-shadow:2px 2px 3px 4px #0000004d;
+    text-align:justify;
+    
+
+}
+.exp{
+    width:100%;
+    display:inline-block;
+    font-size:1.4vw;
+}
+div.exp p{
+    font-family: cursive;
+
+}
+div.exp h2{
+    margin-left:4%;
+    font-size:2vw;
+    font-weight: lighter;
+}
+.dur{
+    background-color:rgb(37, 152, 197);
+    border-radius: 3rem;
+    width:14vw;
+    font-size:1.2vw;
+    padding-top:1%;
+    padding-bottom:1%;
+    padding-left:1%;
+ 
+}
+div.edu h2{
+    margin-left: 4%;
+    font-weight: lighter;
+    font-size:2vw;
+}
+div.edu p{
+    margin-left: 1%;
+    padding-left:3%;
+    margin-right:1%;
+    font-size:1.4vw;
+}
+.skills{
+    width:100%;
+    display:inline-block; 
+}
+div.skills h2{
+    font-weight: lighter;
+    margin-left: 4%;
+    font-size:2vw;
+}
+div.skills p{
+    margin-left: 1%;
+    padding-left:3%;
+    margin-right:1%;
+    font-size:1.4vw;
+}
+.cer{
+    width:100%;
+    display:inline-block; 
+}
+div.cer h2{
+    font-weight: lighter;
+    margin-left: 4%;
+    font-size:2vw;
+}
+div.cer p{
+    margin-left: 1%;
+    padding-left:3%;
+    margin-right:1%;
+    font-size:1.4vw;
+}
+div.exp ul{
+    margin-left:1%;
+    margin-right:1%;
+    padding-top:1%;
+    padding-bottom:1%;
+    padding-left:3%;
+   box-shadow:2px 2px 3px 4px #0000004d;
+   
+}
